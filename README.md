@@ -1,7 +1,7 @@
 ### Supporting code for 
 ## [Empirical evidence that metabolic theory describes the temperature dependency of within-host parasite dynamics](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004608 "Link to article")  
 ### Devin Kirk*, Natalie Jones, Stephanie Peacock**, Jessica Phillips, Peter K. Molnar, Martin Krkosek, and Pepijn Luijckx
- '*' corresponding author: devin.kirk@mail.utoronto.ca
+<nowiki>*</nowiki> corresponding author: devin.kirk@mail.utoronto.ca
 
 ** questions regarding this code should be directed to stephanie.j.peacock@gmail.com
 
